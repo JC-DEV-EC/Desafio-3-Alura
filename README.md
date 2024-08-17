@@ -1,8 +1,8 @@
-![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue.svg)  
-![Estado del Proyecto](https://img.shields.io/badge/estado-finalizado-green.svg)  
+# Desafio 3 - Encuesta Interactiva
+
+![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue.svg)
+![Estado del Proyecto](https://img.shields.io/badge/estado-finalizado-green.svg)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-brightgreen.svg)
-
-
 
 ![Logo](https://ci3.googleusercontent.com/meips/ADKq_NYye8g_ty_wD0XYL2GNMoDxBRpcB02j223NEnCIKMv91C9l_5f_N3N38F6JvoVwpkLhbY7i3sp5SaEjMVRInLoayPs_bzSGaWzDMCQtt6u6_sg-WvXgzvnf_2kBi05E55G_=s0-d-e1-ft#https://d335luupugsy2.cloudfront.net/cms/files/10224/1722974906/$2rp7nct8hor)
 
